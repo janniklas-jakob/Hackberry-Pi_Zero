@@ -9,6 +9,16 @@ First download vial app from [vial](https://get.vial.today/) homepage![image](ht
 Install the vial app and open the app  
 Then connect yor computer with Hackberry and in menu **file**->**Load saved layout** and select the .vil file, the keyboard layout will be reset.  
 
+## Changed layout and layers
+### Layer0:
+![Keymap_Layer0](./layer_0.jpg)
+
+### Layer 1:
+![Keymap_Layer1](./layer_1.jpg)
+
+### Layer 2:
+![Keymap_Layer2](./layer_2.jpg)
+
 ## Default Layout and Layers
 ### Layer0:
 ![Keymap_Layer0](https://github.com/user-attachments/assets/85eecbcd-65fe-4cdd-a51c-9182c82d6bc5)
